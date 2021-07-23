@@ -31,6 +31,10 @@
 - [Wombats](https://imgur.com/gallery/oQHZL1i)
 - [Gruen Transfer](https://psmag.com/magazine/gruen-transfer) - Aka malls and casions are intentionally designed to keep you inside of them longer.
 
+**Statistics**
+
+[![Soyvolon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soyvolon)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Soyvolon/Soyvolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
