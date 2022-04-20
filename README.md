@@ -14,18 +14,18 @@
 
 **My Pronouns Are:** She/Her
 
+*My Other Projects*
+1. [World Heightmap Generator for FAF](https://github.com/Soyvolon/WorldHeightmapForFAF) - A fun little project for generating heightmaps for FAF from real world coords.
+2. [Soyvolon's Utilities](https://github.com/Soyvolon/Soyvolon.Utilities) - Shared resources I use. Avalibe on NuGet at `Soyvolon.Utilities`!
+3. [Card Game Page Guess Manager](https://github.com/Soyvolon/CardGamePage-GuessManager) - The Guess manager I use for updating the Card Game Page.
+4. [Card Game Page](https://github.com/Soyvolon/CardGamePage) - A little website I use to keep track of card game data on the Cloud 9.75 Discord.
+
 *My Discord Bots*
 1. [Cloud Nine Bot](https://github.com/Soyvolon/CloudNineBot) - See Above!
 2. [Partner Bot](https://github.com/Soyvolon/PartnerBot) - An auto-advertisment bot.
 3. [Shatter](https://github.com/Soyvolon/Shatter) - Providing games and fun times to Discord servers!
 4. [Cessum Bot](https://github.com/Soyvolon/CessumBot) - A support utility bot.
 5. [DM Suggestion Bot](https://github.com/Soyvolon/DMSuggestionBot) - Don't even know if this one works anymore, but its there?
-
-*My Other Projects*
-1. [World Heightmap Generator for FAF](https://github.com/Soyvolon/WorldHeightmapForFAF) - A fun little project for generating heightmaps for FAF from real world coords.
-2. [Soyvolon's Utilities](https://github.com/Soyvolon/Soyvolon.Utilities) - Shared resources I use. Avalibe on NuGet at `Soyvolon.Utilities`!
-3. [Card Game Page Guess Manager](https://github.com/Soyvolon/CardGamePage-GuessManager) - The Guess manager I use for updating the Card Game Page.
-4. [Card Game Page](https://github.com/Soyvolon/CardGamePage) - A little website I use to keep track of card game data on the Cloud 9.75 Discord.
 
 **Fun Facts**
 - [Wombats](https://imgur.com/gallery/oQHZL1i)
