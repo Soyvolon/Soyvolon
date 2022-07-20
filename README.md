@@ -4,6 +4,8 @@
 
 [501st Data Core](https://github.com/501stLegionA3/FiveOhFirstDataCore) - a website roster for tracking Trooper information for the [501st Legion ArmA Starsim](https://www.501stlegion-a3.com/) unit! You can check out the public Roster [here](https://s4.501stlegion-a3.com/)!
 
+[Virtual P Drive](https://github.com/Soyvolon/VirtualPDrive) - Using ProjFS, this project creates a virtual file system from reading `.pbo` files that ArmA 3 uses. Instead of the current way to build mods, which needs a developer to have a duplicate copy just for mod development, this method takes up exactly 0 extra space.
+
 [Cloud Nine Bot](https://github.com/Soyvolon/CloudNineBot) and its related site - a Discord bot made super sepcial for the [Cloud 9.75](https://discord.gg/AmFQ5vQWQd) Discord server (a super cool and welcoming place).
 
 **I'm Currently Learing** a lot about web development! My [501st Data Core](https://github.com/501stLegionA3/FiveOhFirstDataCore) project is my first web application at sacle and I've leared a lot so far. I hope to get into a docterate program and study algorimths along with working in the Video Game industry in my future!
