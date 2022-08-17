@@ -8,7 +8,7 @@
 
 [Cloud Nine Bot](https://github.com/Soyvolon/CloudNineBot) and its related site - a Discord bot made super sepcial for the [Cloud 9.75](https://discord.gg/AmFQ5vQWQd) Discord server (a super cool and welcoming place).
 
-**I'm Currently Learing** a lot about web development! My [501st Data Core](https://github.com/501stLegionA3/FiveOhFirstDataCore) project is my first web application at sacle and I've leared a lot so far. I hope to get into a docterate program and study algorimths along with working in the Video Game industry in my future!
+**I'm Currently Learing** a lot about web development! My [501st Data Core](https://github.com/501stLegionA3/FiveOhFirstDataCore) project is my first web application at scale and I've leared a lot so far. I hope to get into a docterate program and study algorimths along with working in the Video Game industry in my future!
 
 **Ask me about** Discord Bots - I've made quite a few. From getting started to learning about the new features Discord keeps releaseing for Bots - I can answer your questions!
 
