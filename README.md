@@ -4,7 +4,7 @@
 
 [501st Data Core](https://github.com/501stLegionA3/FiveOhFirstDataCore) - a website roster for tracking Trooper information for the [501st Legion ArmA Starsim](https://www.501stlegion-a3.com/) unit! You can check out the public Roster [here](https://s4.501stlegion-a3.com/)!
 
-[Data Core](https://dev.azure.com/andrewbounds/DataCore) - A complete rebuild of the 501st Data Core that solves a lot of the backend problems. Still under development.
+[Data Core](https://gitlab.com/Soyvolon/DataCore) - A complete rebuild of the 501st Data Core that solves a lot of the backend problems. Still under development.
 
 [Virtual P Drive](https://github.com/Soyvolon/VirtualPDrive) - Using ProjFS, this project creates a virtual file system from reading `.pbo` files that ArmA 3 uses. Instead of the current way to build mods, which needs a developer to have a duplicate copy just for mod development, this method takes up exactly 0 extra space.
 ***Please note this is more of an experiment, and does not operate very well to the use of ProjFS.***
